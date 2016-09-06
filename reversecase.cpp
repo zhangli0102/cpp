@@ -15,6 +15,6 @@ int main()
     else str[i] = str[i];
     i++;
   }
-  cout << "Now the string is: " << str << "\n";
+  cout << "Now the string is: " << str << endl;
   return 0;
 }
